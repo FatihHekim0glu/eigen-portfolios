@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: eigen-portfolios
+message: "If you use this software in academic work, please cite it as below."
+type: software
+authors:
+  - family-names: Hekimoglu
+    given-names: Fatih
+    email: fatih.hekim1@hotmail.com
+abstract: >-
+  A research-grade Python toolkit for principal component analysis of
+  financial return correlation matrices, with Marchenko-Pastur random
+  matrix theory used to separate signal eigenmodes from noise. Implements
+  the spectrum estimator, the Marchenko-Pastur bulk PDF and edges, a
+  maximum-likelihood noise-variance fit, sector-driven factor labelling,
+  and validated against scikit-learn PCA, the closed-form Marchenko-Pastur
+  edges, and the qualitative spectrum reported by Plerou et al. (1999).
+keywords:
+  - pca
+  - random-matrix-theory
+  - marchenko-pastur
+  - quantitative-finance
+  - eigen-portfolios
+license: MIT
+version: 0.1.0
+date-released: "2026-06-07"
+repository-code: "https://github.com/FatihHekim0glu/eigen-portfolios"
+url: "https://fatihhekimoglu-platform.vercel.app/tools/eigen-portfolios"
+preferred-citation:
+  type: software
+  title: eigen-portfolios
+  authors:
+    - family-names: Hekimoglu
+      given-names: Fatih
+      email: fatih.hekim1@hotmail.com
+  version: 0.1.0
+  year: 2026
+  url: "https://github.com/FatihHekim0glu/eigen-portfolios"
