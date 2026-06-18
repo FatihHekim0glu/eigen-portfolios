@@ -1,6 +1,6 @@
 # eigen-portfolios
 
-> **Now live as an interactive web tool at https://fatihhekimoglu-platform.vercel.app/tools/eigen-portfolios** — part of the fatihhekimoglu.com quantitative-tools platform.
+> **Now live as an interactive web tool at https://fatihhekimoglu-platform.vercel.app/tools/eigen-portfolios**, part of the fatihhekimoglu.com quantitative-tools platform.
 
 [![ci](https://github.com/FatihHekim0glu/eigen-portfolios/actions/workflows/ci.yml/badge.svg)](https://github.com/FatihHekim0glu/eigen-portfolios/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org)
