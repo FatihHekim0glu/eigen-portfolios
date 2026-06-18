@@ -19,9 +19,7 @@ from eigenportfolios.universe import STATIC_UNIVERSE
 st.set_page_config(page_title="Eigen-Portfolios", layout="wide")
 
 st.title("Eigen-Portfolios")
-st.caption(
-    "PCA on financial returns with Marchenko-Pastur signal/noise separation."
-)
+st.caption("PCA on financial returns with Marchenko-Pastur signal/noise separation.")
 
 with st.sidebar:
     st.header("Universe")
