@@ -64,7 +64,7 @@ test = [
     "respx>=0.21",
 ]
 dev = [
-    "ruff==0.15.0",
+    "ruff==0.16.1",
     "mypy>=1.10",
     "pandas-stubs",
     "build>=1.2",
